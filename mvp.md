@@ -69,3 +69,8 @@
 
 ## 書き終えた読者の行動イメージ
 この記事を読んだ後、読者は自分のプロジェクトにおけるMVP開発の方向性を明確にし、次のステップに向けた具体的な計画を立てるきっかけを得るでしょう。
+
+
+## tldv
+
+https://tldv.io/app/meetings/66fdf38a8aa6c70013b019f9?transcript=true&video=true
